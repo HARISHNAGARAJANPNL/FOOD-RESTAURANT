@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to left,orange,red);
+}
+h1{
+    margin-top: 50px;
+   text-align:center;
+}
+.con{
+    text-align: center;
+}
+div{
+    text-align: center;
+
+}
+
+ img{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    
+  
+ }
+

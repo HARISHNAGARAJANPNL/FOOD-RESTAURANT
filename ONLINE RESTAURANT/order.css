@@ -1,0 +1,28 @@
+ img{
+  margin-top: 20px;
+    margin-bottom: 20px;
+    border: 3px solid black;
+    border-radius: 25%;
+ }
+ h1{
+    margin-left: 25px;
+ }
+ div{
+   text-align: center;
+ }
+ button{
+   margin-top: 10px;
+ }
+ body{
+  background-image: url(IMG/pexels-pixmike-413195.jpg);
+ }
+ h1{
+  color: white;
+  font-weight: bolder;
+ }
+ .food{
+  color: white;
+  font-weight: bolder;
+  font-size: larger;
+ }
+

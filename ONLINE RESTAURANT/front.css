@@ -1,0 +1,33 @@
+body{
+    background-image: url(IMG/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    margin-top: 100px;
+    color: white;
+}
+a{
+   
+    color: whitesmoke;
+    font-size:xx-large;
+  
+
+}
+div{
+    text-align: center;
+    margin-top: 100px
+}
+a:hover{
+    color: wheat;
+}
+img{
+    border-radius: 50%;
+    margin-left: 1310px;
+    cursor: pointer;
+}
+b{
+    color: wheat;
+    margin-left: 1300px;
+    cursor:default;
+}

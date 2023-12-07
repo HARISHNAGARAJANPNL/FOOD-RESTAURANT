@@ -1,0 +1,18 @@
+body{
+    background-image: url(IMG/home.jpg);
+    
+}
+div{
+    
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+   
+}
+a{
+    color: white;
+    font-size: larger;
+}
+A:hover{
+color: wheat;
+}
